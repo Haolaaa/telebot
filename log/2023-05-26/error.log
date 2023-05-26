@@ -1,0 +1,1 @@
+[TELEBOT]2023/05/26 - 18:33:34.823	[31merror[0m	/home/haola/workspace/backend/go/telebot(it works)/initialize/internal/rabbitmq.go:22	str	{"error": "dial tcp 127.0.0.1:5672: connect: connection refused"}
